@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/91787/Programming/mlflow/mlruns/0/c5a81cd7332a4450a2a941d44851a6f5/artifacts
+end_time: 1706525335432
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c5a81cd7332a4450a2a941d44851a6f5
+run_name: fun-carp-157
+run_uuid: c5a81cd7332a4450a2a941d44851a6f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706525329541
+status: 3
+tags: []
+user_id: Bobby

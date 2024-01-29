@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/91787/Programming/mlflow/mlruns/0/6c01de8677924287a73bfcc33194ee2f/artifacts
+end_time: 1706525427310
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6c01de8677924287a73bfcc33194ee2f
+run_name: sedate-dove-29
+run_uuid: 6c01de8677924287a73bfcc33194ee2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706525421881
+status: 3
+tags: []
+user_id: Bobby

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/91787/Programming/mlflow/mlruns/0/658481aa68a3490ab7bf2b880cc79c93/artifacts
+end_time: 1706525084977
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 658481aa68a3490ab7bf2b880cc79c93
+run_name: valuable-shrew-527
+run_uuid: 658481aa68a3490ab7bf2b880cc79c93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706525078114
+status: 3
+tags: []
+user_id: Bobby
